@@ -1,0 +1,8 @@
+cv1 = {'İsim Soyisim': 'Yağmur Yağan', 'Yaş': '26', 'Meslek': 'Matematik Öğretmeni', 'Üniversite': 'Adnan Menderes Üniversitesi', 'Şehir': 'İzmir'}
+cv2 = {'İsim Soyisim': 'Nehir Akan', 'Yaş': '32', 'Meslek': 'Sigortacı', 'Üniversite ': 'Sakarya Üniversitesi', 'Şehir': 'Manisa'}
+cv3 = {'İsim Soyisim': 'Deniz Duran', 'Yaş': '60', 'Meslek': 'Broker', 'Üniversite ': 'Ege Üniversitesi', 'Şehir': 'Istanbul'}
+cv4 = {'İsim Soyisim': 'Rüzgar Esen', 'Yaş': '21', 'Meslek': 'Yazılım Uzmanı', 'Üniversite ': 'ODTU', 'Şehir': 'Ankara'}
+cv5 = {'İsim Soyisim': 'Doğa Canlı', 'Yaş': '41', 'Meslek': 'Ressam', 'Üniversite ': 'ITU', 'Şehir': 'Denizli'}
+list = [cv1,cv2,cv3,cv4,cv5]
+for i in list:
+  print(i)
